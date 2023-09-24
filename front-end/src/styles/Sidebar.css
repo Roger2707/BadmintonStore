@@ -1,0 +1,86 @@
+/* FADE ANIMATIONS */
+.fade-enter {
+    opacity: 0;
+}
+
+.fade-enter-active {
+    opacity: 1;
+    transition: opacity 400ms;
+}
+
+.fade-exit {
+    opacity: 1;
+}
+
+.fade-exit-active {
+    opacity: 0;
+    transition: opacity 400ms;
+}
+
+
+/* SIDEBAR */
+
+.sidebar__button {
+    background: transparent;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    transition: 0.3s linear;
+}
+
+.sidebar {
+    width: 250px;
+    background: darkslategrey;
+    padding: 20px;
+    color: white;
+    transition: 0.4s ease-in;
+}
+
+.sidebar-closed {
+    width: 95px;
+    background: darkslategrey;
+    padding: 20px;
+    color: white;
+    transition: 0.4s ease-in;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar__listItem {
+    margin: 20px 7px;
+    display: flex;
+    align-items: center;
+    height: 20px;
+    padding: 20px 5px;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 4px;
+}
+
+.sidebar__listItem:hover {
+    cursor: pointer;
+}
+
+.sidebar__listItem.active {
+    color: goldenrod;
+    border: 2px solid goldenrod;
+}
+
+.sidebar__listItem span {
+    white-space: nowrap;
+}
+
+.sidebar__icon {
+    margin: 0 15px 0 0;
+}
+
+.sidebar__text {
+    display: inline-block;
+    font-size: 1.3rem;
+    font-weight: 500;
+}

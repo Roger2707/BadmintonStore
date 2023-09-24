@@ -1,0 +1,144 @@
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.exe
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Humanizer.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\scopedcss\bundle\BackEnd.styles.css
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CopyComplete
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\WIN 10\Desktop\BadmintonShop\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.staticwebassets.runtime.json
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\appsettings.json
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.staticwebassets.runtime.json
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.exe
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\AutoMapper.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Humanizer.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.csproj.AssemblyReference.cache
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\scopedcss\bundle\BackEnd.styles.css
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CopyComplete
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+E:\Projects\BadmintonStore\BackEnd\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
